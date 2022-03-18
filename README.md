@@ -1,20 +1,17 @@
-### Hello! My name is Owen
-I am currently fifteen and a freshman in high school
+<h1 align="center">Hi, I'm Owen</h1>
+<h3 align="center">I'm a c# developer for my own intrests</h3>
 
-### My enjoyable activities and hobbies
-I love to code, and mod games (especially Fortnite)
+<p align="left"> <a href="https://twitter.com/owenonhxd" target="blank"><img src="https://img.shields.io/twitter/follow/owenonhxd?logo=twitter&style=for-the-badge" alt="owenonhxd" /></a> </p>
 
-### What can you find on my profile?
-I create open-source applications for modding or just random stuff whenever I feel like it
+- I’m currently working on [UE4HexEditor](https://github.com/owen-developer/OwenUE4HexEditor)
 
-### What languages do you know?
-I know C# pretty well and a little bit of C++ and of course English
+<h3 align="left">Connect me:</h3>
+<p align="left">
+<a href="https://twitter.com/owenonhxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owenonhxd" height="30" width="40" /></a>
+<a href="https://discord.gg/tamely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tamely" height="30" width="40" /></a>
+</p>
 
-### How long have you been coding for?
-I've been coding in c# for just over two years and I've been doing web design for about five
+<h3 align="left">Favorite things:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### What projects do I work on?
-I am one of the main developers for [Saturn](https://github.com/Tamely/SaturnSwapper), I also sometimes make my own projects, for example; one of my first projects was a [replay editor for Fortnite](https://github.com/owen-developer/boundless-replay-editor).
-
-### Where can I find you?
-You can find me on [Twitter](https://twitter.com/owenonhxd) but my Discord changes a lot so you can just message me on twitter for it
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owen-developer&show_icons=true&locale=en" alt="owen-developer" /></p>
