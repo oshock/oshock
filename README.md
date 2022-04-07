@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/owenonhxd" target="blank"><img src="https://img.shields.io/twitter/follow/owenonhxd?logo=twitter&style=for-the-badge" alt="owenonhxd" /></a> </p>
 
-- I’m currently working on Fortnite Map Text Editor
+- I’m currently working on <a href="https://github.com/owen-developer/Custom-Texture-Importer">Fortnite Custom Texture Importer</a>
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
