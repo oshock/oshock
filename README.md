@@ -3,12 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/owenonhxd" target="blank"><img src="https://img.shields.io/twitter/follow/owenonhxd?logo=twitter&style=for-the-badge" alt="owenonhxd" /></a> </p>
 
-- I’m currently working on <a href="https://github.com/owen-developer/Custom-Texture-Importer">Fortnite Custom Texture Importer</a>
+- I’m currently working on <a href="https://github.com/owen-developer/Importer">Importer</a> (allows you to import your own custom images into Fortnite)
 
-<h3 align="left">Connect me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/owenonhxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owenonhxd" height="30" width="40" /></a>
-<a href="https://discord.gg/tamely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tamely" height="30" width="40" /></a>
+<a href="https://discord.gg/saturn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tamely" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Favorite things:</h3>
