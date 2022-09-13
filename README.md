@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Owen</h1>
-<h3 align="center">I'm a c# developer for my own intrests</h3>
+<h3 align="center">I'm a c# developer for my own interests</h3>
 
 <p align="left"> <a href="https://twitter.com/owenonhxd" target="blank"><img src="https://img.shields.io/twitter/follow/owenonhxd?logo=twitter&style=for-the-badge" alt="owenonhxd" /></a> </p>
 
