@@ -1,5 +1,7 @@
 ### About me
-I enjoy creating software that analyzes, modifies, or converts binary data. 
+17, USA, Computer Science
+
+I  create software that analyzes, modifies, or converts data. 
 
 ### What can you expect here?
-Tools and methods relating to modding software, games, or anything that doesn't have something that I want it to have.
+Tools created for exploiting games and software to achieve more than intended uses.
