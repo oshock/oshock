@@ -1,5 +1,5 @@
 ### About me
-17, USA, Computer Science
+18, USA, Computer Science
 
 I  create software that analyzes, modifies, or converts data. 
 
